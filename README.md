@@ -1,4 +1,4 @@
 # fishy_lump
-added this comment about the change made
-just havin' a bit of a go...
-it used to be: 'having a bit of a laugh!'
+added this comment about the changes made
+it read: just havin' a bit of a go...
+before that it read: 'having a bit of a laugh!'
